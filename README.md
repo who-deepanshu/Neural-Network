@@ -5,6 +5,7 @@
 # This repository contains-
 - Creation layers from scratch.
 - Adding Activation function.
+- Adding Loss function.
 
 
 # What is Layer ?
