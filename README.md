@@ -14,4 +14,4 @@
 # What is Neuron ?
 - A neuron is composed of two parts -
     - Sum of weights and bias.
-    - Activation function which decides whether to activate or deactivate neuron.
+    - Activation function which decides whether to activate or deactivate neuron.       
